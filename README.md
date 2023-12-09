@@ -5,7 +5,7 @@
 
 Welcome to my digital CV repository! This repository contains the code and assets for my interactive digital CV, hosted using Streamlit. Feel free to explore the sections and learn more about my skills, experience, and projects.
 
-![Nischal Maharjan](profile-pic .png)
+![Nischal Maharjan](profile-pic.png)
 
 ## Table of Contents
 
