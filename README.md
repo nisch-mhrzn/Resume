@@ -57,7 +57,23 @@ This section is under construction.
 
    ```bash
    git clone https://github.com/nisch-mhrzn/digital-cv.git
-pip install -r requirements.txt
-streamlit run main.py
 
-Make sure to update the links, sections, and content as needed for your specific project. This template provides a structured overview of your digital CV repository.
+2. **Install the required dependencies:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. **Run the Streamlit app:**
+
+    ```bash
+    streamlit run main.py
+    ```
+
+4. **Open your browser and go to [http://localhost:8501](http://localhost:8501) to view the digital CV.**
+
+Feel free to explore and connect with me!
+
+## Contribution
+
+If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request. Contributions are welcome!
